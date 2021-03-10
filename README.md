@@ -29,7 +29,7 @@ We recommend following the instructions in those files in order. This order will
 
 ## About the Stack
 
-We started the full stack application for you. It is desiged with some key functional areas:
+We started the full stack application for you. It is designed with some key functional areas:
 
 ### Backend
 
