@@ -207,6 +207,7 @@ Fetches one random question within a specified category. Previously asked questi
   },
   "success": true
 }
+```
 
 ## Testing
 To run the tests, run
